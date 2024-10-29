@@ -9,7 +9,7 @@ package com.mycompany.practica;
  * @author User
  */
 public class Practica {
-
+    //Cualquier cosa//
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }
